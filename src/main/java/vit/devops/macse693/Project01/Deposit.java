@@ -8,4 +8,8 @@ public class Deposit extends Transaction {
         super(date, "Deposit", amount);
         this.accountNumber = accNo;
     }
+
+    public Deposit() {
+        super();
+    }
 }

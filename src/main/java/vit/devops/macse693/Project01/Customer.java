@@ -14,6 +14,9 @@ public class Customer {
         this.userID = id;
     }
 
+    public Customer() {
+    }
+
     public String selectOptions(String option) {
         System.out.println("Option Selected: " + option);
         return option;

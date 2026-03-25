@@ -12,6 +12,10 @@ public class ATM {
         this.bankName = bankName;
     }
 
+    public ATM() {
+
+    }
+
     public boolean validatePin(int enteredPin) {
         return enteredPin == pin;
     }

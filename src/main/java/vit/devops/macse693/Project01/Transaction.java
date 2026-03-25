@@ -14,6 +14,10 @@ public class Transaction {
         this.amount = amount;
     }
 
+    public Transaction() {
+
+    }
+
     public void printReceipt() {
         System.out.println("Transaction Receipt");
         System.out.println("Date: " + date);

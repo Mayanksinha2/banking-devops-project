@@ -17,8 +17,12 @@ public class Account {
     }
 
     public void cashWithdraw(int amount) {
-        balance -= amount;
-        System.out.println("Withdrawn: " + amount);
+        if (amount <= balance) {
+            balance -= amount;
+            System.out.println("Withdrawn: " + amount);
+        } else {
+            System.out.println("Insufficient Balance");
+        }
     }
 
     public void cashDeposit(int amount) {
@@ -32,5 +36,10 @@ public class Account {
 
     public void transactions(String transactionType) {
         System.out.println("Transaction Type: " + transactionType);
+    }
+
+    // ✅ FIXED METHOD
+    public int getBalance() {
+        return balance;
     }
 }
