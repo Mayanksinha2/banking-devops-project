@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\mayan\AppData\Local\Temp\surefire3464867150388067429\surefirebooter-20260325181403819_3.jar C:\Users\mayan\AppData\Local\Temp\surefire3464867150388067429 2026-03-25T18-14-03_599-jvmRun1 surefire-20260325181403819_1tmp surefire_0-20260325181403819_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\mayan\AppData\Local\Temp\surefire3426411276716762957\surefirebooter-20260325193508437_3.jar C:\Users\mayan\AppData\Local\Temp\surefire3426411276716762957 2026-03-25T19-35-08_210-jvmRun1 surefire-20260325193508437_1tmp surefire_0-20260325193508437_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\mayan\IdeaProjects\BankingSystem\target\test-classes;C:\Users\mayan\IdeaProjects\BankingSystem\target\classes;C:\Users\mayan\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\mayan\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\mayan\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\mayan\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\mayan\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\mayan\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\mayan\AppData\Local\Temp\surefire3464867150388067429\surefirebooter-20260325181403819_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\mayan\AppData\Local\Temp\surefire3426411276716762957\surefirebooter-20260325193508437_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
@@ -56,9 +56,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testMultipleDeposit" classname="vit.devops.macse693.Project01.DepositTest" time="0.001"/>
-  <testcase name="testDepositInstance" classname="vit.devops.macse693.Project01.DepositTest" time="0.001"/>
-  <testcase name="testDepositObject" classname="vit.devops.macse693.Project01.DepositTest" time="0.001"/>
-  <testcase name="testDepositNotNull" classname="vit.devops.macse693.Project01.DepositTest" time="0.001"/>
-  <testcase name="testDepositString" classname="vit.devops.macse693.Project01.DepositTest" time="0.001"/>
+  <testcase name="testMultipleDeposit" classname="vit.devops.macse693.Project01.DepositTest" time="0"/>
+  <testcase name="testDepositInstance" classname="vit.devops.macse693.Project01.DepositTest" time="0"/>
+  <testcase name="testDepositObject" classname="vit.devops.macse693.Project01.DepositTest" time="0"/>
+  <testcase name="testDepositNotNull" classname="vit.devops.macse693.Project01.DepositTest" time="0.002"/>
+  <testcase name="testDepositString" classname="vit.devops.macse693.Project01.DepositTest" time="0"/>
 </testsuite>
