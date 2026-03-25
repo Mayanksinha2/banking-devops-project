@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: vit.devops.macse693.Project01.ATMTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.064 s - in vit.devops.macse693.Project01.ATMTest
